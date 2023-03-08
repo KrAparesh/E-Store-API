@@ -35,4 +35,4 @@ Install the dependencies using:
 
     npm install 
 ***
-Found a bug or want to drop suggestions? [Drop a Hi!](contact@kraparesh.co)
+Found a bug or want to drop suggestions? [Drop a Hi!](https://kraparesh.co/#contact)
